@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
-        versionCode = "20160"
-        version   = "3.2.0">
+        id        = "ielimoodle"
+        versionCode = "1"
+        version   = "1.0">
     <name>Moodle Mobile</name>
 
     <description>
-        Moodle Mobile official app
+        IELI Moodle
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Pty Ltd
+    <author href="http://ieli.sa.edu.au" email="itms@ieli.sa.edu.au">
+        Intensive English Language Institute
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
