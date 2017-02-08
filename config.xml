@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "footballsmarts"
+        id        = "ielimoodleapp"
         versionCode = "1"
         version   = "1.0">
-    <name>Football Smarts</name>
+    <name>Intensive English Langauge Institute</name>
 
     <description>
-        Football Smarts moodle app
+        IELI Moodle mobile app
     </description>
 
-    <author href="http://footballsmarts.com.au" email="garypore@gmail.com">
-        Football Smarts
+    <author href="http://ieli.sa.edu.au" email="itms@ieli.sa.edu.au">
+        Gary Pore
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
