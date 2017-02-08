@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
-        versionCode = "20160"
-        version   = "3.2.0">
-    <name>Moodle Mobile</name>
+        id        = "footballsmarts"
+        versionCode = "1"
+        version   = "1.0">
+    <name>Football Smarts</name>
 
     <description>
-        Moodle Mobile official app
+        Football Smarts moodle app
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Pty Ltd
+    <author href="http://footballsmarts.com.au" email="garypore@gmail.com">
+        Football Smarts
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
