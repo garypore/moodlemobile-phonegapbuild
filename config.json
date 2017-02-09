@@ -1,6 +1,6 @@
 {
-    "app_id" : "ielimoodleapp",
-    "appname": "IELI Moodle",
+    "app_id" : "ielionlinelearning",
+    "appname": "IELI Online Learning",
     "versioncode" : "1",
     "versionname" : "1.0",
     "cache_expiration_time" : 300000,
@@ -10,7 +10,7 @@
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "https://ielimoodle.com",
+    "siteurl": "http://ielimoodle.com",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false"
 }
