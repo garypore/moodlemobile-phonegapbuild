@@ -2,13 +2,13 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "ielimoodleapp"
+        id        = "ielionlinelearning"
         versionCode = "1"
         version   = "1.0">
     <name>Intensive English Langauge Institute</name>
 
     <description>
-        IELI Moodle mobile app
+        IELI online learning
     </description>
 
     <author href="http://ieli.sa.edu.au" email="itms@ieli.sa.edu.au">
