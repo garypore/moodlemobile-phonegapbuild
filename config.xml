@@ -3,8 +3,8 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "ielionlinelearning"
-        versionCode = "1"
-        version   = "1.0">
+        versionCode = "1.01"
+        version   = "1.01">
     <name>Intensive English Language Institute</name>
 
     <description>
