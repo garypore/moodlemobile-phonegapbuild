@@ -84,12 +84,12 @@
     <icon src="resources/ios/icon/icon-72@2x.png"         gap:platform="ios"      width="144" height="144" />
 
     <gap:splash src="splash.png" />
-    <gap:splash src="resources/android/splash/drawable-port-ldpi-screen.png"      gap:platform="android" gap:qualifier="port-ldpi"/>
-    <gap:splash src="resources/android/splash/drawable-port-mdpi-screen.png"      gap:platform="android" gap:qualifier="port-mdpi"/>
-    <gap:splash src="resources/android/splash/drawable-port-hdpi-screen.png"      gap:platform="android" gap:qualifier="port-hdpi"/>
-    <gap:splash src="resources/android/splash/drawable-port-xhdpi-screen.png"     gap:platform="android" gap:qualifier="port-xhdpi"/>
+    <gap:splash src="resources/android/splash/drawable-port-xxhdpi-screen.png"      gap:platform="android" gap:qualifier="port-xxhdpi"/>
+    <gap:splash src="resources/android/splash/drawable-port-xxhdpi-screen.png"      gap:platform="android" gap:qualifier="port-xxhdpi"/>
+    <gap:splash src="resources/android/splash/drawable-port-xxhdpi-screen.png"      gap:platform="android" gap:qualifier="port-xxhdpi"/>
+    <gap:splash src="resources/android/splash/drawable-port-xxhdpi-screen.png"     gap:platform="android" gap:qualifier="port-xxhdpi"/>
     <gap:splash src="resources/android/splash/drawable-port-xxhdpi-screen.png"    gap:platform="android" gap:qualifier="port-xxhdpi"/>
-    <gap:splash src="resources/android/splash/drawable-port-xxxhdpi-screen.png"   gap:platform="android" gap:qualifier="port-xxxhdpi"/>
+    <gap:splash src="resources/android/splash/drawable-port-xxhdpi-screen.png"   gap:platform="android" gap:qualifier="port-xxhdpi"/>
 
 
     <gap:splash src="resources/ios/splash/Default-568h@2x~iphone.png"     gap:platform="ios" width="640" height="1136"/>
