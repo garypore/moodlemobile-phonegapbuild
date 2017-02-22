@@ -9,7 +9,7 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "gcmpn": "694767596569",
-    "customurlscheme": "www.ielimoodle.com/httpdocs/theme/mymobile",
+    "customurlscheme": "mymobile",
     "siteurl": "http://ielimoodle.com",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false"
