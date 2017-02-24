@@ -34,6 +34,11 @@
                             <i class="icon ion-ionic"></i>{{ 'mm.sidemenu.mycourses' | translate}}
                         </a>
                     </li>
+                    <li class="mm-grades-handler">
+                        <a menu-close class="item item-icon-left" ui-sref="site.mm_grades" title="{{ 'mm.sidemenu.grades' | translate}}">
+                            <i class="icon ion-ionic"></i>{{ 'mm.sidemenu.grades' | translate}}
+                        </a>
+                    </li>
                     <li class="item text-center" ng-if="(!handlers || !handlers.length) && !areNavHandlersLoaded()">
                         <ion-spinner></ion-spinner>
                     </li>
